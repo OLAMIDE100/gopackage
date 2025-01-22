@@ -1,4 +1,4 @@
-module github.com/OLAMIDE100/gopackage
+module gopackage
 
 go 1.22.3
 
